@@ -17,3 +17,10 @@ Develop a model to predict the antibody valence of the SARS-CoV data.
 ### Evaluation
 * Area Under the Curve(AUC)
   * AUC of epitope prediction for SARS using the B-cell dataset as the training set and the SARS dataset as the test set.
+  
+### Notebook
+[SARS prediction](https://github.com/likarajo/covid19_prediction/blob/main/SARS_prediction.ipynb)
+
+---
+
+## Task 2 : SARS prediction with B-cell data
