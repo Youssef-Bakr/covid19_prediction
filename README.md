@@ -39,4 +39,7 @@ Develop a model to predict the antibody valence of the SARS-CoV2 data.
 ### Evaluation
 * Prediction results for SARS-CoV-2 dataset
  * List of epitope predictions for SARS-CoV-2 using the B-cell and SARS datasets as the training set and the SARS-CoV-2 dataset as the test set.
+ 
+ ### Notebook
+[COVID prediction](https://github.com/likarajo/covid19_prediction/blob/main/COVID_prediction.ipynb)
 
